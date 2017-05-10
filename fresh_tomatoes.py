@@ -38,9 +38,11 @@ main_page_head = '''
         .movie-tile {
             margin-bottom: 20px;
             padding-top: 20px;
+
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #56cc63;
+            border-radius: 10px;
             cursor: pointer;
         }
         .scale-media {
